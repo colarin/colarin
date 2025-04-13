@@ -1,4 +1,4 @@
-# Wagner Colares
+<h1 align="center">⚡ Wagner Colares ⚡</h1>
 
 Meu nome é **Wagner Colares**, moro no **Ceará** e estudo no **Instituto Federal do Ceará**. Apaixonado por tecnologia e informática, sempre buscando evoluir na área de programação.
 
