@@ -82,7 +82,7 @@ Meu nome é **Wagner Colares**, moro no **Ceará** e estudo no **Instituto Feder
 ### Contato
 
 - **E-mail**: luizwagner169@gmail.com  
-- **Instagram**: [@_wf.colares](https://instagram.com/_wf.colares)
+- **Instagram**: [@_colareswx](https://instagram.com/__colareswx)
 
 ---
 
