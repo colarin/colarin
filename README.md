@@ -1,6 +1,10 @@
 <h1 align="center">⚡ Wagner Colares ⚡</h1>
 
-Meu nome é **Wagner Colares**, moro no **Ceará** e estudo no **Instituto Federal do Ceará**. Apaixonado por tecnologia e informática, sempre buscando evoluir na área de programação.
+
+<p align="center">
+  Meu nome é <strong>Wagner Colares</strong>, moro no <strong>Ceará</strong> e estudo no <strong>Instituto Federal do Ceará</strong>.  
+  Apaixonado por tecnologia e informática, sempre buscando evoluir na área de programação.
+</p>
 
 ---
 
@@ -21,27 +25,27 @@ Meu nome é **Wagner Colares**, moro no **Ceará** e estudo no **Instituto Feder
 
 ---
 
-### Sobre mim
+### 🚀 Sobre mim
 
 - Curto aprender **Python** e tenho o objetivo de aprender outras linguagens.
 - Estou sempre buscando crescer e me desenvolver como programador.
 - Acredito que a evolução é constante — tanto no código quanto na vida.
 
 ---
+<div align="center">
 
-### Linguagens
+## 💻 Tecnologias e Ferramentas
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+| Backend | Frontend / Web |
+|---------|----------------|
+| <div align="center"><img src="https://skillicons.dev/icons?i=py,java" height="40" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=html" height="40" /></div> |
 
-<br/>
-<br/>
+| Banco de Dados | IDEs |
+|----------------|------|
+| <div align="center"><img src="https://skillicons.dev/icons?i=mysql" height="40" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=vscode,eclipse" height="40" /></div> |
+
+</div>
+
 
 ---
 
@@ -75,17 +79,20 @@ Meu nome é **Wagner Colares**, moro no **Ceará** e estudo no **Instituto Feder
 
 ### 🏆 Troféus
 
-![](https://github-profile-trophy.vercel.app/?username=Colarin&theme=radical&column=3)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Colarin&theme=radical&column=3" />
+</p>
 
 ---
+---
 
-### Contato
+### 📬 Contato
 
 - **E-mail**: luizwagner169@gmail.com  
 - **Instagram**: [@_colareswx](https://instagram.com/_colareswx)
 
 ---
 
-### Frase que me representa
+### ✨ Frase que me representa
 
 **"Sempre na evolução"**
