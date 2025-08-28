@@ -115,4 +115,4 @@
 
 <h3 align="center">✨ Frase que me representa</h3>
 
-<p align="center"><strong>"Sempre na evolução"</strong></p>
+<p align="center"><strong>"Sempre em evolução"</strong></p>
