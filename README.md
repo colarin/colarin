@@ -44,7 +44,7 @@
 
  Curto aprender **Python** e tenho o objetivo de aprender outras linguagens.  
  Estou sempre buscando crescer e me desenvolver como programador.  
- Acredito que a evolução é constante — tanto no código quanto na vida.  
+ Acredito que a evolução deva ser constante — tanto no código quanto na vida.  
 
 </div>
 
