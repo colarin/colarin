@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Wagner Colares ⚡</h1>
 
 <p align="center">
-  <em>Estudante de Informática • Backend & Web • Sempre em evolução 🚀</em>
+  <em>Estudante de Informática • Backend & Web • Sempre na evolução 🚀</em>
 </p>
 
 <p align="center">
