@@ -61,16 +61,15 @@
 
 | Backend | Frontend / Web |
 |---------|----------------|
-| <div align="center"><img src="https://skillicons.dev/icons?i=py,java" height="32" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=html,css,js" height="32" /></div> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=py,java,cpp" height="32" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=html,css,js" height="32" /></div> |
 
 | Banco de Dados | IDEs |
 |----------------|------|
-| <div align="center"><img src="https://skillicons.dev/icons?i=mysql" height="32" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=vscode,eclipse" height="32" /></div> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=mysql" height="32" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=vscode,eclipse,arduino" height="32" /></div> |
 
 | Controle de Versão | Plataformas |
 |--------------------|-------------|
 | <div align="center"><img src="https://skillicons.dev/icons?i=git,github" height="32" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=github" height="32" /></div> |
-
 </div>
 
 ---
